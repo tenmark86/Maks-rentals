@@ -15,7 +15,7 @@ const Footer = () => (
         <FaReact />
       </a>
       <a
-        href=""
+        href="https://github.com/tenmark86/Maks-rentals-api"
         aria-label="Backend Repository"
         alt="Backend Repository"
         className="text-red-500 hover:bg-red-400 hover:text-white"
@@ -27,12 +27,36 @@ const Footer = () => (
     <div className="credits">
       <a
         href="https://github.com/tenmark86"
-        aria-label="Arnaud Bandonkeye"
-        alt="Arnaud Bandonkeye"
+        aria-label="Mark Mutuota"
+        alt="Mark Mutuota"
         className="text-yellow-500 hover:bg-yellow-400 hover:text-white"
       >
         <FaGithub />
-        </a>
+      </a>
+      <a
+        href="https://github.com/tenmark86"
+        aria-label="Mark Mutuota"
+        alt=""
+        className="text-blue-500 hover:bg-blue-400 hover:text-white"
+      >
+        <FaGithub />
+      </a>
+      <a
+        href="https://github.com/tenmark86"
+        aria-label="Mark Mutuota"
+        alt=""
+        className="text-green-500 hover:bg-green-400 hover:text-white"
+      >
+        <FaGithub />
+      </a>
+      <a
+        href="https://github.com/tenmark86"
+        aria-label="Mark Mutuota"
+        alt=""
+        className="text-red-500 hover:bg-red-400 hover:text-white"
+      >
+        <FaGithub />
+      </a>
     </div>
 
   </footer>
