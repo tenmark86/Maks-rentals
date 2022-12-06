@@ -1,7 +1,8 @@
 {
-  "name": "ezcar_frontend",
+  "name": "Maks-rentals",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tenmark86.github.io/Maks-rentals",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
@@ -31,6 +32,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
