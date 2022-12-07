@@ -8,7 +8,7 @@ const Logo = ({ extraClasses }) => (
     <Link to="/">
       <div className={`logo-box font-['Secular_One'] ${extraClasses}`}>
         <FaCarAlt />
-        <span>Mak's rentals</span>
+        <span>Maks rentals</span>
       </div>
     </Link>
   </div>
