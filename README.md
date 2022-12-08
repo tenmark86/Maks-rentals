@@ -24,6 +24,7 @@ The following languages have been used on this project:
 
 
 Live link: https://maks-rentals.netlify.app
+Back-end Repository: https://github.com/tenmark86/Maks-rentals-api
 
 ## Some Screenshots
 * Homepage/login page
